@@ -1,3 +1,7 @@
 # images
 
-images for different projects.
+Images for different projects.
+
+## Setup and Use
+
+Don't
